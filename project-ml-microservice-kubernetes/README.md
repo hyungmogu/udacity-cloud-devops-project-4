@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/hyungmogu/udacity-cloud-devops-project-4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/hyungmogu/udacity-cloud-devops-project-4/tree/master)
 
 # Operationalize a Machine Learning Microservice API
 
